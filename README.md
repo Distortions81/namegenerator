@@ -30,7 +30,7 @@ go get -u github.com/Distortions81/namegenerator
 package main
 
 import (
-    "github.com/Distortions81/namegenerator"
+    "namegenerator"
 )
 
 func main() {

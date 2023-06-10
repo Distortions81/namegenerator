@@ -1,3 +1,3 @@
-module github.com/Distortions81/namegenerator
+module namegenerator
 
 go 1.20
