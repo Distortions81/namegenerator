@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/goombaio/namegenerator"
+	"github.com/Distortions81/namegenerator"
 )
 
 // ExampleNameGenerator ...
