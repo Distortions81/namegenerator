@@ -51,3 +51,7 @@ func NewNameGenerator(seed int64) Generator {
 
 	return nameGenerator
 }
+
+func GetMaxNames() int {
+	return len(ADJECTIVES) * len(NOUNS)
+}
