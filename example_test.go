@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Distortions81/namegenerator"
+	"namegenerator"
 )
 
 // ExampleNameGenerator ...
