@@ -15,13 +15,13 @@ implementation in Golang.
 ## Install
 
 ```bash
-go get github.com/goombaio/namegenerator
+go get github.com/Distortions81/namegenerator
 ```
 
 You can also update an already installed version:
 
 ```bash
-go get -u github.com/goombaio/namegenerator
+go get -u github.com/Distortions81/namegenerator
 ```
 
 ## Example of use
@@ -30,7 +30,7 @@ go get -u github.com/goombaio/namegenerator
 package main
 
 import (
-    "github.com/goombaio/namegenerator"
+    "github.com/Distortions81/namegenerator"
 )
 
 func main() {
@@ -65,9 +65,9 @@ limitations under the License.
 [CircleCI-URL]: https://circleci.com/gh/goombaio/namegenerator
 [Coverage-Image]: https://codecov.io/gh/goombaio/namegenerator/branch/master/graph/badge.svg
 [Coverage-URL]: https://codecov.io/gh/goombaio/namegenerator
-[GoReportCard-Image]: https://goreportcard.com/badge/github.com/goombaio/namegenerator
-[GoReportCard-URL]: https://goreportcard.com/report/github.com/goombaio/namegenerator
+[GoReportCard-Image]: https://goreportcard.com/badge/github.com/Distortions81/namegenerator
+[GoReportCard-URL]: https://goreportcard.com/report/github.com/Distortions81/namegenerator
 [CII-Image]: https://bestpractices.coreinfrastructure.org/projects/2237/badge
 [CII-URL]: https://bestpractices.coreinfrastructure.org/projects/2237
-[GoDoc-Image]: https://godoc.org/github.com/goombaio/namegenerator?status.svg
-[GoDoc-URL]: http://godoc.org/github.com/goombaio/namegenerator
+[GoDoc-Image]: https://godoc.org/github.com/Distortions81/namegenerator?status.svg
+[GoDoc-URL]: http://godoc.org/github.com/Distortions81/namegenerator

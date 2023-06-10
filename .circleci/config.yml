@@ -17,7 +17,7 @@ jobs:
     #### expecting it in the form of
     ####   /go/src/github.com/circleci/go-tool
     ####   /go/src/bitbucket.org/circleci/go-tool
-    working_directory: ~/src/github.com/goombaio/namegenerator
+    working_directory: ~/src/github.com/Distortions81/namegenerator
     steps:
       - checkout
 
@@ -43,7 +43,7 @@ jobs:
     #### expecting it in the form of
     ####   /go/src/github.com/circleci/go-tool
     ####   /go/src/bitbucket.org/circleci/go-tool
-    working_directory: ~/src/github.com/goombaio/namegenerator
+    working_directory: ~/src/github.com/Distortions81/namegenerator
     steps:
       - checkout
 
@@ -66,7 +66,7 @@ jobs:
     #### expecting it in the form of
     ####   /go/src/github.com/circleci/go-tool
     ####   /go/src/bitbucket.org/circleci/go-tool
-    working_directory: ~/src/github.com/goombaio/namegenerator
+    working_directory: ~/src/github.com/Distortions81/namegenerator
     steps:
       - checkout
 
