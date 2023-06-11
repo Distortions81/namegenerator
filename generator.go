@@ -33,9 +33,12 @@ type NameGenerator struct {
 }
 
 // Generate ...
+var numAdj int = len(ADJECTIVES)
+var numNoun int = len(NOUNS)
+
 func (rn *NameGenerator) Generate() string {
-	randomAdjective := ADJECTIVES[rn.random.Intn(len(ADJECTIVES))]
-	randomNoun := NOUNS[rn.random.Intn(len(NOUNS))]
+	randomAdjective := ADJECTIVES[rn.random.Intn(numAdj)]
+	randomNoun := NOUNS[rn.random.Intn(numNoun)]
 
 	randomName := fmt.Sprintf("%v-%v", randomAdjective, randomNoun)
 
@@ -53,5 +56,5 @@ func NewNameGenerator(seed int64) Generator {
 }
 
 func GetMaxNames() int {
-	return len(ADJECTIVES) * len(NOUNS)
+	return numAdj * numNoun
 }
