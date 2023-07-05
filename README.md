@@ -9,7 +9,6 @@ implementation in Golang.
 [![CircleCI Status][CircleCI-Image]][CircleCI-URL]
 [![Coverage Report][Coverage-Image]][Coverage-URL]
 [![Go Report Card][GoReportCard-Image]][GoReportCard-URL]
-[![CII Best Practices][CII-Image]][CII-URL]
 [![GoDoc][GoDoc-Image]][GoDoc-URL]
 
 ## Install
