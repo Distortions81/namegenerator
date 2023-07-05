@@ -6,8 +6,6 @@ implementation in Golang.
 ## Badges
 
 [![License][License-Image]][License-URL]
-[![CircleCI Status][CircleCI-Image]][CircleCI-URL]
-[![Coverage Report][Coverage-Image]][Coverage-URL]
 [![Go Report Card][GoReportCard-Image]][GoReportCard-URL]
 [![GoDoc][GoDoc-Image]][GoDoc-URL]
 
